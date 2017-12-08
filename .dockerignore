@@ -1,0 +1,5 @@
+*
+!src/
+!convox.yml
+!docker-compose.yml
+!Dockerfile
